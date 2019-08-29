@@ -99,4 +99,7 @@ LoginKW1
     Sleep                        5    
     Click Element          xpath=//*[@id="login-form"]/fieldset/div[4]/div[1]/label    
 
-
+NewTestForGitUpdateCheck
+    Log    I am inside in New Git Update test    
+    
+   
